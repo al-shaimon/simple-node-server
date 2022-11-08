@@ -22,3 +22,14 @@ mongoDB Atlas
 4. database> connect> show entire code
 5. npm i mongodb
 */
+
+/* 
+Insert:
+
+*/
+
+/* 
+
+find:
+
+*/
