@@ -13,3 +13,12 @@ Query:
 https://www.youtube.com/watch?v=88B6vuKsDsA&ab_channel=RishiSunakMP
 path?name=value&name=value&name=value
 */
+
+/* 
+mongoDB Atlas
+1. sign up mongoDB atlas
+2. dba user
+3. Whitelist your ip address
+4. database> connect> show entire code
+5. npm i mongodb
+*/
